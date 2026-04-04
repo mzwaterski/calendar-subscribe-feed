@@ -1322,7 +1322,7 @@ SUMMARY:[J] Woodridge Mustang Cubs @ Woodridge Rockies
 UID:5:2ac01346-e0c7-4d46-b166-610e60b3f524
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:
 DTEND;TZID=America/Chicago:20260426T210000
 DTSTAMP:20251028T005523Z
@@ -1333,14 +1333,14 @@ LOCATION:Lou Fusz Soccer Complex \n2155 Creve Coeur Mill Road\, St. Louis\
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - TBD Midwest Spring Invitational-Pleas
- e Respond
+SUMMARY:[B] B2013 ECNL/Black - TBD Midwest Spring Invitational-Please Resp
+ ond
 UID:2:SprocketSports-2061360
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Lou Fusz Soccer Complex:geo:
  38.7003954\,-90.5009781
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Arrival: 30 minutes in advance\nGame Type: Away\nUniform: Blac
  k\nOpponent: Libertyville ECNL RL B13\n
 DTEND;TZID=America/Chicago:20260426T133000
@@ -1352,13 +1352,13 @@ LOCATION:Libertyville Township Soccer Complex \n30080 Technology Way\, Lib
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black @ Libertyville ECNL RL B13
+SUMMARY:[B] B2013 ECNL/Black @ Libertyville ECNL RL B13
 UID:2:SprocketSports-1556598
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Libertyville Township Soccer
   Complex:geo:42.3013422\,-87.9959401
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Arrival: 30 minutes in advance\nGame Type: Away\nUniform: Blac
  k\nOpponent: CSA ECNL RL B13\n
 DTEND;TZID=America/Chicago:20260509T103000
@@ -1370,13 +1370,13 @@ LOCATION:East Side Sports Complex \n3565 Legacy Blvd\, St. Charles\, IL 60
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black @ CSA ECNL RL B13
+SUMMARY:[B] B2013 ECNL/Black @ CSA ECNL RL B13
 UID:2:SprocketSports-1567201
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=East Side Sports Complex:geo
  :41.899804\,-88.2714949
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Game Type: Away\nUniform: Black\nOpponent: CLF ECNL RL B13\n
 DTEND;TZID=America/Chicago:20260502T113000
 DTSTAMP:20251212T154913Z
@@ -1386,13 +1386,13 @@ LOCATION:Lippold Park \n851 Illinois 176\, Crystal Lake\, IL 60014
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black @ CLF ECNL RL B13
+SUMMARY:[B] B2013 ECNL/Black @ CLF ECNL RL B13
 UID:2:SprocketSports-1574101
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Lippold Park:geo:42.2455342\
  ,-88.3597076
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: Field 4\nArrival: 30 minutes in advance\nGame Type: Awa
  y\nUniform: Black\nOpponent: Chicago City ECNL RL B13\n
 DTEND;TZID=America/Chicago:20260412T103000
@@ -1403,13 +1403,13 @@ LOCATION:Bridgeview Turf Fields \n7000 S Harlem Ave\, Bridgeview\, IL 60455
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black @ Chicago City ECNL RL B13
+SUMMARY:[B] B2013 ECNL/Black @ Chicago City ECNL RL B13
 UID:2:SprocketSports-2324459
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Bridgeview Turf Fields:geo:4
  1.7651124\,-87.8018935
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 5\nArrival: 30 minutes in advance\nGame Type: Away\nUni
  form: Black\nOpponent: NIE ECNL RL B13\n
 DTEND;TZID=America/Chicago:20260510T133000
@@ -1420,13 +1420,13 @@ LOCATION:NIBCO Soccer Fields \n700 Riverview Avenue\, Elkhart\, IN 46516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black @ NIE ECNL RL B13
+SUMMARY:[B] B2013 ECNL/Black @ NIE ECNL RL B13
 UID:2:SprocketSports-1876545
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=NIBCO Soccer Fields:geo:41.6
  847818\,-85.9400358
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:
 DTEND;TZID=America/Chicago;VALUE=DATE:20260427
 DTSTAMP:20260128T172007Z
@@ -1437,14 +1437,14 @@ LOCATION:Lou Fusz Athletic Training Center \n1 Athletic Drive\, Earth City
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Lou Fusz Midwest Spring Invitational 
- Missouri
+SUMMARY:[B] B2013 ECNL/Black - Lou Fusz Midwest Spring Invitational Missou
+ ri
 UID:2:SprocketSports-2485510
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Lou Fusz Athletic Training C
  enter:geo:38.7653807\,-90.454292
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Refereess:\nMIKE GURGONE [C]\n EWAN LANDRY [A]\n ERIC KALLSTRA
  ND [A]\n\nField: (Full Field)\nArrival: 30 minutes in advance\nGame Type:
   Home\nUniform: Yellow\nOpponent: NIE ECNL RL B13\n
@@ -1456,13 +1456,13 @@ LOCATION:Jefferson Jr High-WPD \n7200 Janes Ave\, Woodridge\, IL 60517
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black vs NIE ECNL RL B13
+SUMMARY:[B] B2013 ECNL/Black vs NIE ECNL RL B13
 UID:2:SprocketSports-1656632
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Jefferson Jr High-WPD:geo:41
  .7546744\,-88.0421062
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Referees: \nMEGAN FRASCONA [C]\n EWAN LANDRY [A]\n JAVIER ORDA
  Z [A]\n\nField: (Full Field)\nArrival: 30 minutes in advance\nGame Type: 
  Home\nUniform: Yellow\nOpponent: Bloomingdale ECNL RL B13\n
@@ -1474,13 +1474,13 @@ LOCATION:Jefferson Jr High-WPD \n7200 Janes Ave\, Woodridge\, IL 60517
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black vs Bloomingdale ECNL RL B13
+SUMMARY:[B] B2013 ECNL/Black vs Bloomingdale ECNL RL B13
 UID:2:SprocketSports-1555065
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Jefferson Jr High-WPD:geo:41
  .7546744\,-88.0421062
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Referees:\nRYAN DEACY [C]\n EWAN LANDRY [A]\n JAVIER ORDAZ [A]
  \n\nField: (Full Field)\nGame Type: Home\nUniform: Yellow\nOpponent: Chic
  ago City ECNL RL B13\n
@@ -1492,13 +1492,13 @@ LOCATION:Jefferson Jr High-WPD \n7200 Janes Ave\, Woodridge\, IL 60517
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black vs Chicago City ECNL RL B13
+SUMMARY:[B] B2013 ECNL/Black vs Chicago City ECNL RL B13
 UID:2:SprocketSports-1575651
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Jefferson Jr High-WPD:geo:41
  .7546744\,-88.0421062
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:
 DTEND;TZID=America/Chicago;VALUE=DATE:20260407
 DTSTAMP:20260226T154806Z
@@ -1507,11 +1507,11 @@ LOCATION:
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Spring Season officially begins
+SUMMARY:[B] B2013 ECNL/Black - Spring Season officially begins
 UID:2:SprocketSports-2597526
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:
 DTEND;TZID=America/Chicago;VALUE=DATE:20260613
 DTSTAMP:20260226T154859Z
@@ -1520,11 +1520,11 @@ LOCATION:
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - End of Spring Season
+SUMMARY:[B] B2013 ECNL/Black - End of Spring Season
 UID:2:SprocketSports-2597573
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:2013 - U13 D\n\nField: 3 (11v11)\nArrival: 30 minutes in advan
  ce\nGame Type: Home\nUniform: Yellow\nOpponent: Real Cerezo FC Real Cerez
  o FC U13\n
@@ -1536,13 +1536,13 @@ LOCATION:Orchard Hill-WPD \n8413 S. Janes Avenue\, Woodridge\, IL 60517
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black vs Real Cerezo FC Real Cerezo FC U13
+SUMMARY:[B] B2013 ECNL/Black vs Real Cerezo FC Real Cerezo FC U13
 UID:2:SprocketSports-2611532
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Orchard Hill-WPD:geo:41.7321
  6\,-88.0393654
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:2013 - U13 D\n\nArrival: 30 minutes in advance\nGame Type: Awa
  y\nUniform: Black\nOpponent: Carol Stream Panthers SC 2013 Pre-Academy 2\
  n
@@ -1555,14 +1555,13 @@ LOCATION:Glendbard North High School \n990 Kuhn Road\, Carol Stream\, IL 6
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black @ Carol Stream Panthers SC 2013 Pre-Aca
- demy 2
+SUMMARY:[B] B2013 ECNL/Black @ Carol Stream Panthers SC 2013 Pre-Academy 2
 UID:2:SprocketSports-2611534
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Glendbard North High School:
  geo:41.9283277\,-88.1405906
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:2013 - U13 D\n\nField: 3 (11v11)\nArrival: 30 minutes in advan
  ce\nGame Type: Home\nUniform: Yellow\nOpponent: Evolution SC 2013 Boys Ph
  antom\n
@@ -1574,13 +1573,13 @@ LOCATION:Orchard Hill-WPD \n8413 S. Janes Avenue\, Woodridge\, IL 60517
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black vs Evolution SC 2013 Boys Phantom
+SUMMARY:[B] B2013 ECNL/Black vs Evolution SC 2013 Boys Phantom
 UID:2:SprocketSports-2611531
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Orchard Hill-WPD:geo:41.7321
  6\,-88.0393654
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:
 DTEND;TZID=America/Chicago:20260315T150000
 DTSTAMP:20260310T221042Z
@@ -1591,13 +1590,13 @@ LOCATION:Downers Grove Rec Center \n4500 Belmont Road\, Downers Grove\, IL
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Photo Day- wear BLACK jerseys!
+SUMMARY:[B] B2013 ECNL/Black - Photo Day- wear BLACK jerseys!
 UID:2:SprocketSports-2676508
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Downers Grove Rec Center:geo
  :41.8044335\,-88.0395182
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:
 DTEND;TZID=America/Chicago:20260322T150000
 DTSTAMP:20260310T221354Z
@@ -1608,13 +1607,13 @@ LOCATION:Downers Grove Rec Center \n4500 Belmont Road\, Downers Grove\, IL
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Photo Day- wear BLACK jerseys!
+SUMMARY:[B] B2013 ECNL/Black - Photo Day- wear BLACK jerseys!
 UID:2:SprocketSports-2676590
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Downers Grove Rec Center:geo
  :41.8044335\,-88.0395182
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:2013 - U13 D\n\nField: 3 (11v11)\nArrival: 30 minutes in advan
  ce\nGame Type: Home\nUniform: Yellow\nOpponent: Black Wolves FC 2013\n
 DTEND;TZID=America/Chicago:20260418T103000
@@ -1625,13 +1624,13 @@ LOCATION:Orchard Hill-WPD \n8413 S. Janes Avenue\, Woodridge\, IL 60517
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black vs Black Wolves FC 2013
+SUMMARY:[B] B2013 ECNL/Black vs Black Wolves FC 2013
 UID:2:SprocketSports-2611529
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Orchard Hill-WPD:geo:41.7321
  6\,-88.0393654
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Referees:\nCAMERYN LYNDE [C]\n MIKE GURGONE [A]\n ERIC KALLSTR
  AND [A]\n\nField: (Full Field)\nArrival: 30 minutes in advance\nGame Type
  : Home\nUniform: Yellow\nOpponent: CSA ECNL RL B13\n
@@ -1643,13 +1642,13 @@ LOCATION:Jefferson Jr High-WPD \n7200 Janes Ave\, Woodridge\, IL 60517
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black vs CSA ECNL RL B13
+SUMMARY:[B] B2013 ECNL/Black vs CSA ECNL RL B13
 UID:2:SprocketSports-1567197
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Jefferson Jr High-WPD:geo:41
  .7546744\,-88.0421062
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:2013 - U13 D\n\nArrival: 30 minutes in advance\nGame Type: Awa
  y\nUniform: Black\nOpponent: Chicago House Athletic Club 2013 Green W\n
 DTEND;TZID=America/Chicago:20260428T193000
@@ -1660,14 +1659,13 @@ LOCATION:Prairie Path Park (PPP1) \n1501 S Raddant Rd.\, Batavia\, IL 60510
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black @ Chicago House Athletic Club 2013 Gree
- n W
+SUMMARY:[B] B2013 ECNL/Black @ Chicago House Athletic Club 2013 Green W
 UID:2:SprocketSports-2611535
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Prairie Path Park (PPP1):geo
  :41.8309172\,-88.2924308
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:2013 - U13 D\n\nArrival: 30 minutes in advance\nGame Type: Awa
  y\nUniform: Black\nOpponent: Addison United AUSC Eagles 2013\n
 DTEND;TZID=America/Chicago:20260527T190000
@@ -1678,13 +1676,13 @@ LOCATION:Foxdale Park \n1389-1399 Rosebud Lane\, Addison\, IL 60101
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black @ Addison United AUSC Eagles 2013
+SUMMARY:[B] B2013 ECNL/Black @ Addison United AUSC Eagles 2013
 UID:2:SprocketSports-2611533
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Foxdale Park:geo:41.9565062\
  ,-88.0232868
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:2013 - U13 D\n\nField: 3 (11v11)\nArrival: 30 minutes in advan
  ce\nGame Type: Home\nUniform: Yellow\nOpponent: Carol Stream Panthers SC 
  2013 Pre-Academy 2\n
@@ -1696,14 +1694,13 @@ LOCATION:Orchard Hill-WPD \n8413 S. Janes Avenue\, Woodridge\, IL 60517
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black vs Carol Stream Panthers SC 2013 Pre-Ac
- ademy 2
+SUMMARY:[B] B2013 ECNL/Black vs Carol Stream Panthers SC 2013 Pre-Academy 2
 UID:2:SprocketSports-2611530
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Orchard Hill-WPD:geo:41.7321
  6\,-88.0393654
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260407T210000
 DTSTAMP:20260319T193143Z
@@ -1713,13 +1710,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727457
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260414T210000
 DTSTAMP:20260319T193143Z
@@ -1729,13 +1726,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727459
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260421T210000
 DTSTAMP:20260319T193143Z
@@ -1745,13 +1742,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727460
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260428T210000
 DTSTAMP:20260319T193143Z
@@ -1761,13 +1758,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727461
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260505T210000
 DTSTAMP:20260319T193143Z
@@ -1777,13 +1774,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727462
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260512T210000
 DTSTAMP:20260319T193143Z
@@ -1793,13 +1790,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727463
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260519T210000
 DTSTAMP:20260319T193143Z
@@ -1809,13 +1806,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727464
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260526T210000
 DTSTAMP:20260319T193143Z
@@ -1825,13 +1822,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727465
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260602T210000
 DTSTAMP:20260319T193143Z
@@ -1841,13 +1838,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727466
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260609T210000
 DTSTAMP:20260319T193143Z
@@ -1857,13 +1854,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727467
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260409T210000
 DTSTAMP:20260319T194400Z
@@ -1873,13 +1870,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727495
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260416T210000
 DTSTAMP:20260319T194400Z
@@ -1889,13 +1886,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727497
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260423T210000
 DTSTAMP:20260319T194400Z
@@ -1905,13 +1902,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727498
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260430T210000
 DTSTAMP:20260319T194400Z
@@ -1921,13 +1918,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727499
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260507T210000
 DTSTAMP:20260319T194400Z
@@ -1937,13 +1934,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727500
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260514T210000
 DTSTAMP:20260319T194400Z
@@ -1953,13 +1950,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727501
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260521T210000
 DTSTAMP:20260319T194400Z
@@ -1969,13 +1966,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727502
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260528T210000
 DTSTAMP:20260319T194400Z
@@ -1985,13 +1982,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727503
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260604T210000
 DTSTAMP:20260319T194400Z
@@ -2001,13 +1998,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727504
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:Field: 11v11\n
 DTEND;TZID=America/Chicago:20260611T210000
 DTSTAMP:20260319T194400Z
@@ -2017,13 +2014,13 @@ LOCATION:Doerhoefer-DGPD \n4100 Saratoga Ave\, Downers Grove\, IL 60516
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black - Training @ Doerhoefer
+SUMMARY:[B] B2013 ECNL/Black - Training @ Doerhoefer
 UID:2:SprocketSports-2727505
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Doerhoefer-DGPD:geo:41.81161
  64\,-88.014924
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Brendan
+CATEGORIES:B
 DESCRIPTION:2013 - U13 D\n\nArrival: 30 minutes in advance\nGame Type: Awa
  y\nUniform: Black\nOpponent: Evolution SC 2013 Boys Phantom\n
 DTEND;TZID=America/Chicago:20260515T200000
@@ -2034,7 +2031,7 @@ LOCATION:Frontier Park \n3415 Book Rd\, Naperville\, IL 60564
 ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
 SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:[Brendan] B2013 ECNL/Black @ Evolution SC 2013 Boys Phantom
+SUMMARY:[B] B2013 ECNL/Black @ Evolution SC 2013 Boys Phantom
 UID:2:SprocketSports-2611536
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Frontier Park:geo:41.7046167
  \,-88.1911707
