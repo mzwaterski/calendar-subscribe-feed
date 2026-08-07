@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALDESC:Merged family member calendar subscription feed
+X-WR-CALNAME:Family Member Calendar
+END:VCALENDAR
