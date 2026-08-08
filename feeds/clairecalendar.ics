@@ -5,4 +5,776 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALDESC:Merged family member calendar subscription feed
 X-WR-CALNAME:Family Member Calendar
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Summer practice\nLocation: Seve
+ n Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, US
+ A\nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/l
+ ti6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D589889%26team_id
+ %3D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260710T003000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260709T230000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Summer practice
+UID:3:event-589889@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Summer practice\nLocation: Seve
+ n Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, US
+ A\nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/l
+ ti6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D589881%26team_id
+ %3D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260715T003000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260714T230000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CANCELLED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Summer practice
+UID:3:event-589881@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Summer practice\nLocation: Seve
+ n Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, US
+ A\nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/l
+ ti6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D589890%26team_id
+ %3D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260717T003000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260716T230000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CANCELLED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Summer practice
+UID:3:event-589890@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Summer practice\nLocation: Seve
+ n Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, US
+ A\nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/l
+ ti6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D589882%26team_id
+ %3D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260722T003000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260721T230000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Summer practice
+UID:3:event-589882@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Summer practice\nLocation: Seve
+ n Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, US
+ A\nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/l
+ ti6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D589891%26team_id
+ %3D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260724T003000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260723T230000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Summer practice
+UID:3:event-589891@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Summer practice\nLocation: Seve
+ n Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, US
+ A\nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/l
+ ti6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D785599%26team_id
+ %3D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260805T003000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260804T230000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Summer practice
+UID:3:event-785599@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Summer practice\nLocation: Seve
+ n Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, US
+ A\nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/l
+ ti6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D785629%26team_id
+ %3D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260807T003000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260806T230000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Summer practice
+UID:3:event-785629@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835395%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260812T003000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260811T230000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835395@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835396%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260813T003000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260812T230000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835396@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Game: U16/17 Premier Girls vs U15 Wheaton United\nLocation: Se
+ ven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, 
+ USA\nDuration: 1 hour\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?d
+ eep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D817439%26team_id%3D019e7f
+ 6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260815T001500Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260814T231500Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Game: U16/17 Premier Girls vs U15 Wheaton United
+UID:3:event-817439@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835483%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260817T234500Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260817T221500Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835483@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Graf P
+ ark - Graf Park\n1855 Manchester Rd\, Wheaton\, IL\nDuration: 1 hour 30 m
+ inutes\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=
+ tsone%3A%2F%2Fevent%3Fevent_id%3D835528%26team_id%3D019e7f6d-7e6b-7c36-af
+ 46-9c95d148b221
+DTEND:20260819T013000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260819T000000Z
+GEO:41.868464;-88.132079
+LOCATION:Graf Park - Graf Park\n1855 Manchester Rd\, Wheaton\, IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835528@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park - Front Fields\n1750 South Naperville Road\, Wheaton\, IL 601
+ 89\nDuration: 1 hour 30 minutes\nNotes: Front fields off Naperville rd\nL
+ ink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=tsone%3A%
+ 2F%2Fevent%3Fevent_id%3D835533%26team_id%3D019e7f6d-7e6b-7c36-af46-9c95d1
+ 48b221
+DTEND:20260820T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260819T223000Z
+GEO:41.840548;-88.102749
+LOCATION:Seven Gables Park - Front Fields\n1750 South Naperville Road\, Wh
+ eaton\, IL 60189
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835533@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835561%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260825T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260824T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835561@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Graf P
+ ark - Graf Park\n1855 Manchester Rd\, Wheaton\, IL\nDuration: 1 hour 30 m
+ inutes\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=
+ tsone%3A%2F%2Fevent%3Fevent_id%3D835588%26team_id%3D019e7f6d-7e6b-7c36-af
+ 46-9c95d148b221
+DTEND:20260826T013000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260826T000000Z
+GEO:41.868464;-88.132079
+LOCATION:Graf Park - Graf Park\n1855 Manchester Rd\, Wheaton\, IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835588@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835534%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260827T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260826T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835534@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:U16/17 Premier Girls Schaumburg soccefear tournament\nLocation
+ : Olympic Park - Olympic Park\n1675 Old Schaumburg Rd\, Schaumburg\, IL\n
+ Duration: 1 hour\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_l
+ ink_value=tsone%3A%2F%2Fevent%3Fevent_id%3D785561%26team_id%3D019e7f6d-7e
+ 6b-7c36-af46-9c95d148b221
+DTEND;VALUE=DATE:20260829
+DTSTAMP:20260807T223747Z
+DTSTART;VALUE=DATE:20260828
+GEO:42.025079;-88.038225
+LOCATION:Olympic Park - Olympic Park\n1675 Old Schaumburg Rd\, Schaumburg\
+ , IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] U16/17 Premier Girls Schaumburg soccefear tournament
+UID:3:event-785561@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:U16/17 Premier Girls Schaumburg soccer fest tournament\nLocati
+ on: Olympic Park - Olympic Park\n1675 Old Schaumburg Rd\, Schaumburg\, IL
+ \nDuration: 1 hour\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep
+ _link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D785591%26team_id%3D019e7f6d-
+ 7e6b-7c36-af46-9c95d148b221
+DTEND;VALUE=DATE:20260830
+DTSTAMP:20260807T223747Z
+DTSTART;VALUE=DATE:20260829
+GEO:42.025079;-88.038225
+LOCATION:Olympic Park - Olympic Park\n1675 Old Schaumburg Rd\, Schaumburg\
+ , IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] U16/17 Premier Girls Schaumburg soccer fest tournament
+UID:3:event-785591@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:U16/17 Premier Girls Schaumburg soccerfest tournament\nLocatio
+ n: Olympic Park - Olympic Park\n1675 Old Schaumburg Rd\, Schaumburg\, IL\
+ nDuration: 1 hour\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_
+ link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D785594%26team_id%3D019e7f6d-7
+ e6b-7c36-af46-9c95d148b221
+DTEND;VALUE=DATE:20260831
+DTSTAMP:20260807T223747Z
+DTSTART;VALUE=DATE:20260830
+GEO:42.025079;-88.038225
+LOCATION:Olympic Park - Olympic Park\n1675 Old Schaumburg Rd\, Schaumburg\
+ , IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] U16/17 Premier Girls Schaumburg soccerfest tournament
+UID:3:event-785594@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835562%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260901T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260831T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835562@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Graf P
+ ark - Graf Park\n1855 Manchester Rd\, Wheaton\, IL\nDuration: 1 hour 30 m
+ inutes\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=
+ tsone%3A%2F%2Fevent%3Fevent_id%3D835589%26team_id%3D019e7f6d-7e6b-7c36-af
+ 46-9c95d148b221
+DTEND:20260902T013000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260902T000000Z
+GEO:41.868464;-88.132079
+LOCATION:Graf Park - Graf Park\n1855 Manchester Rd\, Wheaton\, IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835589@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835535%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260903T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260902T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835535@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835563%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260908T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260907T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835563@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Graf P
+ ark - Graf Park\n1855 Manchester Rd\, Wheaton\, IL\nDuration: 1 hour 30 m
+ inutes\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=
+ tsone%3A%2F%2Fevent%3Fevent_id%3D835590%26team_id%3D019e7f6d-7e6b-7c36-af
+ 46-9c95d148b221
+DTEND:20260909T013000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260909T000000Z
+GEO:41.868464;-88.132079
+LOCATION:Graf Park - Graf Park\n1855 Manchester Rd\, Wheaton\, IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835590@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835536%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260910T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260909T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835536@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835564%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260915T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260914T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835564@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Graf P
+ ark - Graf Park\n1855 Manchester Rd\, Wheaton\, IL\nDuration: 1 hour 30 m
+ inutes\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=
+ tsone%3A%2F%2Fevent%3Fevent_id%3D835591%26team_id%3D019e7f6d-7e6b-7c36-af
+ 46-9c95d148b221
+DTEND:20260916T013000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260916T000000Z
+GEO:41.868464;-88.132079
+LOCATION:Graf Park - Graf Park\n1855 Manchester Rd\, Wheaton\, IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835591@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835537%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260917T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260916T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835537@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835565%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260922T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260921T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835565@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Graf P
+ ark - Graf Park\n1855 Manchester Rd\, Wheaton\, IL\nDuration: 1 hour 30 m
+ inutes\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=
+ tsone%3A%2F%2Fevent%3Fevent_id%3D835592%26team_id%3D019e7f6d-7e6b-7c36-af
+ 46-9c95d148b221
+DTEND:20260923T013000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260923T000000Z
+GEO:41.868464;-88.132079
+LOCATION:Graf Park - Graf Park\n1855 Manchester Rd\, Wheaton\, IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835592@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835538%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260924T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260923T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835538@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835566%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20260929T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260928T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835566@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Graf P
+ ark - Graf Park\n1855 Manchester Rd\, Wheaton\, IL\nDuration: 1 hour 30 m
+ inutes\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=
+ tsone%3A%2F%2Fevent%3Fevent_id%3D835593%26team_id%3D019e7f6d-7e6b-7c36-af
+ 46-9c95d148b221
+DTEND:20260930T013000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260930T000000Z
+GEO:41.868464;-88.132079
+LOCATION:Graf Park - Graf Park\n1855 Manchester Rd\, Wheaton\, IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835593@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835539%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20261001T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20260930T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835539@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835567%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20261006T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261005T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835567@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Graf P
+ ark - Graf Park\n1855 Manchester Rd\, Wheaton\, IL\nDuration: 1 hour 30 m
+ inutes\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=
+ tsone%3A%2F%2Fevent%3Fevent_id%3D835594%26team_id%3D019e7f6d-7e6b-7c36-af
+ 46-9c95d148b221
+DTEND:20261007T013000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261007T000000Z
+GEO:41.868464;-88.132079
+LOCATION:Graf Park - Graf Park\n1855 Manchester Rd\, Wheaton\, IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835594@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835540%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20261008T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261007T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835540@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835568%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20261013T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261012T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835568@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Graf P
+ ark - Graf Park\n1855 Manchester Rd\, Wheaton\, IL\nDuration: 1 hour 30 m
+ inutes\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=
+ tsone%3A%2F%2Fevent%3Fevent_id%3D835595%26team_id%3D019e7f6d-7e6b-7c36-af
+ 46-9c95d148b221
+DTEND:20261014T013000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261014T000000Z
+GEO:41.868464;-88.132079
+LOCATION:Graf Park - Graf Park\n1855 Manchester Rd\, Wheaton\, IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835595@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835541%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20261015T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261014T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835541@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835569%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20261020T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261019T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835569@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Graf P
+ ark - Graf Park\n1855 Manchester Rd\, Wheaton\, IL\nDuration: 1 hour 30 m
+ inutes\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=
+ tsone%3A%2F%2Fevent%3Fevent_id%3D835596%26team_id%3D019e7f6d-7e6b-7c36-af
+ 46-9c95d148b221
+DTEND:20261021T013000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261021T000000Z
+GEO:41.868464;-88.132079
+LOCATION:Graf Park - Graf Park\n1855 Manchester Rd\, Wheaton\, IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835596@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835542%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20261022T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261021T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835542@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835570%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20261027T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261026T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835570@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Graf P
+ ark - Graf Park\n1855 Manchester Rd\, Wheaton\, IL\nDuration: 1 hour 30 m
+ inutes\nLink: https://link.teamsnapone.com/j8yu/lti6qv3a?deep_link_value=
+ tsone%3A%2F%2Fevent%3Fevent_id%3D835597%26team_id%3D019e7f6d-7e6b-7c36-af
+ 46-9c95d148b221
+DTEND:20261028T013000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261028T000000Z
+GEO:41.868464;-88.132079
+LOCATION:Graf Park - Graf Park\n1855 Manchester Rd\, Wheaton\, IL
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835597@teamsnapone.com
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Mo
+DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
+ Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
+ nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
+ 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835543%26team_id%3
+ D019e7f6d-7e6b-7c36-af46-9c95d148b221
+DTEND:20261029T000000Z
+DTSTAMP:20260807T223747Z
+DTSTART:20261028T223000Z
+GEO:41.840531;-88.102741
+LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
+ L 60189\, USA
+STATUS:CONFIRMED
+SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
+UID:3:event-835543@teamsnapone.com
+END:VEVENT
 END:VCALENDAR
