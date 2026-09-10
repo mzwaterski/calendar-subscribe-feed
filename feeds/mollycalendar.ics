@@ -1357,23 +1357,6 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Mo
 DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
- Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, IL 60189\, USA\
- nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/lti
- 6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835395%26team_id%3
- D019e7f6d-7e6b-7c36-af46-9c95d148b221
-DTEND:20260811T233000Z
-DTSTAMP:20260906T020057Z
-DTSTART:20260811T220000Z
-GEO:41.840531;-88.102741
-LOCATION:Seven Gables Park back fields\n1750 S Naperville Rd\, Wheaton\, I
- L 60189\, USA
-STATUS:CANCELLED
-SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
-UID:3:event-835395@teamsnapone.com
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Mo
-DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
  Gables Park - Front Fields\n1750 South Naperville Road\, Wheaton\, IL 601
  89\nDuration: 1 hour 30 minutes\nNotes: Field A.\nLink: https://link.team
  snapone.com/j8yu/lti6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%
