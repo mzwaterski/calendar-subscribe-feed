@@ -654,24 +654,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Jefferson Jr High-WPD:geo:41
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:B
-DESCRIPTION:Field: Field 4\nGame Type: Away\nUniform: Black\nOpponent: Chi
- cago Edge BU14 Premier XI\n
-DTEND;TZID=America/Chicago:20260903T220000
-DTSTAMP:20261001T230555Z
-DTSTART;TZID=America/Chicago:20260903T203000
-GEO:42.023110;-88.037531
-LOCATION:Olympic Park \n1675 Old Schaumburg Rd\, Schaumburg\, IL 60173
-ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
-SEQUENCE:1786418449
-STATUS:CONFIRMED
-SUMMARY:[B] Roadrunners SC ECNL RL B2012/13 (U14) @ Chicago Edge BU14 Prem
- ier XI
-UID:4:SprocketSports-3368180
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Olympic Park:geo:42.0231104\
- ,-88.0375314
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:B
 DESCRIPTION:Field: Field 5\nGame Type: Home\nUniform: Yellow\nOpponent: Ch
  icago Empire FC U14 EA\n
 DTEND;TZID=America/Chicago:20260910T220000
