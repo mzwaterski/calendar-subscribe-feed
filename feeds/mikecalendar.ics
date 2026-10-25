@@ -474,24 +474,6 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Jefferson Jr High-WPD:geo:41
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:B
-DESCRIPTION:Field: Field 4\nGame Type: Home\nUniform: Yellow\nOpponent: So
- ckers FC U14 Boys N1 P2 White\n
-DTEND;TZID=America/Chicago:20260924T220000
-DTSTAMP:20261019T163111Z
-DTSTART;TZID=America/Chicago:20260924T203000
-GEO:42.023110;-88.037531
-LOCATION:Olympic Park \n1675 Old Schaumburg Rd\, Schaumburg\, IL 60173
-ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
-SEQUENCE:1786418731
-STATUS:CONFIRMED
-SUMMARY:[B] Roadrunners SC ECNL RL B2012/13 (U14) vs Sockers FC U14 Boys N
- 1 P2 White
-UID:4:SprocketSports-3368188
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Olympic Park:geo:42.0231104\
- ,-88.0375314
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:B
 DESCRIPTION:Field: Field 4\nGame Type: Away\nUniform: Black\nOpponent: PRS
  C Premier U14B Black\n
 DTEND;TZID=America/Chicago:20261001T220000
