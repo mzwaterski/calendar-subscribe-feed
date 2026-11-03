@@ -370,25 +370,6 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:B
 DESCRIPTION:Field: (Full Field)\, East (7v7)\, West Field (9v9)\nArrival: 
- 30 minutes in advance\nGame Type: Home\nOpponent: Chicago Soccer Academy 
- ECNL RL B2012/13\n
-DTEND;TZID=America/Chicago:20261004T183000
-DTSTAMP:20261030T181339Z
-DTSTART;TZID=America/Chicago:20261004T170000
-GEO:41.754674;-88.042106
-LOCATION:Jefferson Jr High-WPD \n7200 Janes Ave\, Woodridge\, IL 60517
-ORGANIZER;CN=Roadrunners Soccer Club:mailto:roadrunners.soccer@gmail.com
-SEQUENCE:1791349209
-STATUS:CONFIRMED
-SUMMARY:[B] Roadrunners SC ECNL RL B2012/13 (U14) vs Chicago Soccer Academ
- y ECNL RL B2012/13
-UID:4:SprocketSports-3326541
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-TITLE=Jefferson Jr High-WPD:geo:41
- .7546744\,-88.0421062
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:B
-DESCRIPTION:Field: (Full Field)\, East (7v7)\, West Field (9v9)\nArrival: 
  30 minutes in advance\nGame Type: Home\nUniform: Yellow\nOpponent: Chicag
  o City SC ECNL RL B2012/13\n
 DTEND;TZID=America/Chicago:20261108T183000
