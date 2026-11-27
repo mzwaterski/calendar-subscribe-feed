@@ -1866,24 +1866,6 @@ UID:6:10c757b0-a805-482a-9b9d-b566a5b3d239
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Mo
-DESCRIPTION:Practice: U16/17 Premier Girls Fall practice\nLocation: Seven 
- Gables Park - Front Fields\n1750 South Naperville Road\, Wheaton\, IL 601
- 89\nDuration: 1 hour 30 minutes\nLink: https://link.teamsnapone.com/j8yu/
- lti6qv3a?deep_link_value=tsone%3A%2F%2Fevent%3Fevent_id%3D835543%26team_i
- d%3D019e7f6d-7e6b-7c36-af46-9c95d148b221
-DTEND:20261028T231500Z
-DTSTAMP:20261108T221825Z
-DTSTART:20261028T214500Z
-GEO:41.840548;-88.102749
-LAST-MODIFIED:20261018T222339Z
-LOCATION:Seven Gables Park - Front Fields\n1750 South Naperville Road\, Wh
- eaton\, IL 60189
-STATUS:CONFIRMED
-SUMMARY:[Mo] Practice: U16/17 Premier Girls Fall practice
-UID:3:event-835543@teamsnapone.com
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Mo
 DESCRIPTION:Game: U16/17 Premier Girls vs HWESC 2010/2011\nLocation: Seven
   Gables Park - Front Fields\n1750 South Naperville Road\, Wheaton\, IL 60
  189\nDuration: 1 hour 30 minutes\nArrival: 30 minutes early\nNotes: Field
